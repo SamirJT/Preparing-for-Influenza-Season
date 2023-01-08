@@ -7,7 +7,8 @@ Analysis of population, vaccination, and flu mortality data using Excel to creat
 
 ## Data
 
-### Opensourced data made available by the US Census Buereau. Population data by geography, found [here.](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csvx) 
+### Opensourced data made available by the US Census Buereau. 
+#### Population data by geography, found [here.](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csvx) 
 ### Opensourced data made available by CDC:
 #### Influenza deaths by geography, time, age, and gender, found [here.](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx)
 #### Counts of influenza laboratory test results by state (survey), found [here.](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)
