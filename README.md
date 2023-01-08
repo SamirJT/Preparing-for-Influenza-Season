@@ -16,3 +16,9 @@ Analysis of population, vaccination, and flu mortality data using Excel to creat
 ## Project Skills on Display
 
 #### Microsoft Excel, Tableau Storytelling, Data Cleaning, Data Integration & Transformation, Spatial Analysis, Forecasting, and Statistical Hypothesis Testing 
+
+
+## Project Deliverables
+
+#### Tableau Storyboard, found [here.](https://public.tableau.com/app/profile/samir.thomas/viz/PreparingforInfluenzaSeason_16624140443520/Story1)
+#### Video Stakeholder Presentation, found [here.](https://vimeo.com/747446742)
